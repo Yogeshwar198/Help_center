@@ -59,9 +59,6 @@ Check the Setup:
 Open a web browser and navigate to http://localhost:5173/ to see the frontend.
 Verify that it can connect to the backend and display data properly.
 ```
-## Screenshots
-
-![App Screenshot](https://github.com/user-attachments/assets/d16cce3d-02c0-4a5d-b67a-1206a04dcdf5)
 
 
 
