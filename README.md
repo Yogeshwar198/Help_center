@@ -1,3 +1,7 @@
+## Screenshots
+
+![App Screenshot](https://github.com/user-attachments/assets/d16cce3d-02c0-4a5d-b67a-1206a04dcdf5)
+
 
 ## Demo
 
