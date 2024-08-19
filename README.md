@@ -20,7 +20,7 @@ A CardModel that defines each card's structure in the database, including a uniq
 The API includes endpoints to add new cards (POST /cards), fetch all cards (GET /cards), and retrieve specific cards by title (GET /cards/:title). 
 Error handling ensures smooth operation even with invalid input or non-existent cards.
 
-## Installation
+## Run Locally
 Clone the Repository:
 Install my-project with npm
 
@@ -46,7 +46,7 @@ The frontend should now be running on http://localhost:5173/ or another specifie
 
 Configure Environment Variables:
 ```bash
-Ensure you have any required environment variables set up for both the backend.
+Ensure you have any required environment variables set up for the backend.
 This is often done in .env file. Frontend, such as API URLs.
 ```
 
@@ -57,7 +57,7 @@ Verify that it can connect to the backend and display data properly.
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://drive.google.com/file/d/1TTlF9VCF0qcKlEhWV-kWfcRM0UlaAfCj/view?usp=sharing)
 
 
 
