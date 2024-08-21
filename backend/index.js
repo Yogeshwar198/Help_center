@@ -5,7 +5,7 @@ import cardsRoute from "./routes/cardsRoute.js";
 import cors from "cors";
 
 const app = express();
-const PORT = 5000 || process.env.PORT;
+const PORT = process.env.PORT || 8000;
 
 app.use(express.json());
 

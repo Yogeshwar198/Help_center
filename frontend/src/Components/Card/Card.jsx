@@ -12,7 +12,7 @@ const Card = ({ searchQuery }) => {
     useEffect(() => {
         async function fetchCards() {
             try {
-                const res = await axios.get('http://localhost:5000/cards');
+                const res = await axios.get('https://help-center-backend-87er.onrender.com/cards');
                 setCards(res.data);
             } catch (error) {
                 console.error("An error occurred while fetching the cards:", error);
