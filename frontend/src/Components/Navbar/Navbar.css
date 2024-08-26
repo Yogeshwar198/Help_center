@@ -58,7 +58,7 @@
 
 @media (max-width:500px) {
     .left {
-        margin-left: -45px;
+        margin-left: 35px;
         font-size: small;
     }
     .right button {
@@ -67,7 +67,8 @@
         font-size: small;
     }
     .navbar img {
-        margin-left: 60px;
-        width: 20px;
+        /* margin-left: 40px;
+        width: 20px; */
+        display: none;
     }
 }
